@@ -39,6 +39,17 @@ This project is an independent academic project for predicting 38 disease classe
 
 ##  Run It Yourself
 
-```bash
-pip install -r requirements.txt
-python disease_prediction.py
+  ```bash
+  pip install -r requirements.txt
+  python disease_prediction.py
+  predict_disease("Itching, Skin Rash, Nodal Skin Eruptions") # example use 
+  ```
+
+## LICENSE
+MIT
+
+## AUTHOUR
+
+Pietro Veneri
+[Linkedin](https://www.linkedin.com/in/pietroveneri)
+[GitHub](https://github.com/pietroveneri)
